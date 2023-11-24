@@ -1,6 +1,7 @@
 #  Yandex-lyceum
 def my_superfunction():
     print('What an awesome print!')
+    print("WHAT DO YOU KNOW ABOUT MEE?")
 
 
 def main():
